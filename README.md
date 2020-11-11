@@ -28,11 +28,12 @@ Using SQLAlchemy and SQlite, a series of queries were run for the months of June
 
 ### Results
 - There was a discrepency between the number of sites measured.   Over 1700 sites provided Temperature data in June but only 1517 sites in 
-December.  This may have some effect on the what are the exact statistics are for the month of December.  
+December.  This may have some effect on what are the exact statistics for the month of December.  
 - Not a marked difference in degrees between the two months at the higher temperature ranges.
-- Much greater difference in degrees beteewn the two months at the lower temperature readings.  This is especially signifcant when you compare the min temperatures for both months and the temperatures at the 25th percentile.
+- Much greater difference in degrees beteewn the two months at the lower temperature readings.  This is especially signifcant when you compare the minimum temperatures for both months and the temperatures at the 25th percentile.
 
 ## Summary
     
-### Business Reommendations
- 
+### Recommendations
+  - 
+
