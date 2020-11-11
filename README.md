@@ -21,7 +21,7 @@ To pursue funding from possible investors for a surfing/ice cream shop weather d
 Using SQLAlchemy and SQlite, a series of queries were run for the months of June and December for the years 2010 to 2017.  From those queries a summary of statistics were generated.
 
 ### June Temperatures
-
+![June temps](https://github.com/stephenanayashilliard/Surfs_UP/blob/main/Resources/June_temps.png)
 
 ## Summary
     
