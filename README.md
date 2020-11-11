@@ -32,18 +32,16 @@ December.  This may have some effect on what are the exact statistics for the mo
 - Not a marked difference in degrees between the two months at the higher temperature ranges.
 - Much greater difference in degrees beteewn the two months at the lower temperature readings.  This is especially signifcant when you compare the minimum temperatures for both months and the temperatures at the 25th percentile.
 
-#### June Precipitation
-![June Precipitation](https://github.com/stephenanayashilliard/Surfs_UP/blob/main/Resources/June_prcp.png)
-
-#### December Precipitation
-![Dec Precipitation](
-
-
 ## Summary
     
 ### Recommendations
   - To make sure that the data for December temperatures is complete, it is recommended that if possible the weather data from the 183 missing sites be added for December.
   - Although the numbers were not included in this report.  The addition of tourism numbers as well as surfing statistics could provide a clearer picture of the risk of opening a business in this category.
   - In addition to the above queries,  I have also provided below two additional queries based on precipitation for June and December for the years 2010 to 2017.  
-  
+
+#### June Precipitation
+![June Precipitation](https://github.com/stephenanayashilliard/Surfs_UP/blob/main/Resources/June_prcp.png)  
+
+#### December Precipitation
+![Dec Precipitation](https://github.com/stephenanayashilliard/Surfs_UP/blob/main/Resources/Dec_Prcp.png)
 
