@@ -20,8 +20,17 @@ To pursue funding from possible investors for a surfing/ice cream shop weather d
 ## Results of Analyis
 Using SQLAlchemy and SQlite, a series of queries were run for the months of June and December for the years 2010 to 2017.  From those queries a summary of statistics were generated.
 
-### June Temperatures
+### June Temperatures       
 ![June temps](https://github.com/stephenanayashilliard/Surfs_UP/blob/main/Resources/June_temps.png)
+
+### December Temperatures
+![December temps](https://github.com/stephenanayashilliard/Surfs_UP/blob/main/Resources/Dec_temps.png)
+
+### Results
+- There was a discrepency between the number of sites measured.   Over 1700 sites provided Temperature data in June but only 1517 sites in 
+December.  This may have some effect on the what are the exact statistics are for the month of December.  
+- Not a marked difference in degrees between the two months at the higher temperature ranges.
+- Much greater difference in degrees beteewn the two months at the lower temperature readings.  This is especially signifcant when you compare the min temperatures for both months and the temperatures at the 25th percentile.
 
 ## Summary
     
