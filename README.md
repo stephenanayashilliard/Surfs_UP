@@ -32,6 +32,13 @@ December.  This may have some effect on what are the exact statistics for the mo
 - Not a marked difference in degrees between the two months at the higher temperature ranges.
 - Much greater difference in degrees beteewn the two months at the lower temperature readings.  This is especially signifcant when you compare the minimum temperatures for both months and the temperatures at the 25th percentile.
 
+#### June Precipitation
+![June Precipitation](https://github.com/stephenanayashilliard/Surfs_UP/blob/main/Resources/June_prcp.png)
+
+#### December Precipitation
+![Dec Precipitation](
+
+
 ## Summary
     
 ### Recommendations
